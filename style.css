@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+cite {
+    color:black;
+}
+
+span {
+    color: orange;
+}
+
+form {
+    border-color: red;
+    border-style: solid;
+    border-radius: 20px;
+    width: 75%;
+}
